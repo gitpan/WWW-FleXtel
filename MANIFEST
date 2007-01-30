@@ -1,6 +1,7 @@
 Build.PL
 Changes
 examples/example.pl
+examples/masonRedirect.html
 INSTALL
 lib/WWW/FleXtel.pm
 LICENSE
