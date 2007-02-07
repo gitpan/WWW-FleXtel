@@ -1,4 +1,4 @@
-# $Id: 20compile.t 816 2006-11-26 19:09:52Z nicolaw $
+# $Id: 20compile.t 933 2007-01-31 16:05:08Z nicolaw $
 
 chdir('t') if -d 't';
 use lib qw(./lib ../lib);
